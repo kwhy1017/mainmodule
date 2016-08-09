@@ -1,4 +1,4 @@
 [submodule "memo"]
 	path = memo
 	url = https://github.com/kwhy1017/submodule.git
-	branch = master
+	branch = submodule
